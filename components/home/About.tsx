@@ -33,7 +33,7 @@ export default function About() {
             <div className="aspect-square w-full max-w-md mx-auto rounded-lg overflow-hidden shadow-lg shadow-neutral-900/50">
               <div className="relative w-full h-full">
                 <Image
-                  src="\sreerag.jpeg"
+                  src="/sreerag1.jpeg"
                   alt="Sreerag - Software Engineer"
                   fill
                   sizes="(max-width: 768px) 100vw, 50vw"
@@ -79,7 +79,7 @@ export default function About() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Experience</h4>
-                  <p className={mutedTextColor}>1+ Years</p> {/* Muted text */}
+                  <p className={mutedTextColor}>1.5+ Years</p> {/* Muted text */}
                 </div>
               </div>
 
